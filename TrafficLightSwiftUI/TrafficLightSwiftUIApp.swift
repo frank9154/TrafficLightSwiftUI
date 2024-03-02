@@ -13,6 +13,7 @@ struct TrafficLightSwiftUIApp: App {
         WindowGroup {
             //ContentView()
             TrafficLightView()
+            
         }
     }
 }
